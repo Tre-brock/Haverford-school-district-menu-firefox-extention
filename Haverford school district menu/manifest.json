@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Haverford school district menu",
+    "version": "1.0",
+    "description": "Adds a popup box with the menu.",
+
+"icons": {
+  "48": "you dont want to know.png"
+},    
+    "browser_action": {
+      "default_popup": "files.html"
+    }
+  }
+  
